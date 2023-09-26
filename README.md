@@ -1,5 +1,6 @@
 # CRUD-python-react
 
+
 This is a basic CRUD (Create, Read, Update, Delete) application created using Django and React. It provides the functionality to create, read, edit, and delete entries. For the user interface, Material UI was utilized, ensuring full responsiveness across different devices
 
 
